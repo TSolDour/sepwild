@@ -12,8 +12,8 @@ About **59 cuttlefish juveniles** have been sampled in July 2026 at Oleron islan
 
 Analyses :
 	- **Colorimetric measurement of total DNA methylation** in optic lobes, gills and muscle; 
-	- **Metal concentration** measurement in digestive gland; 
-	- **Ageing using statoliths**; 
+	- **Metal concentration** measurement in digestive gland;  
+	- **Ageing using statoliths**;  
 	- **Transcript expression quantification** by RT-qPCR of some genes of interest (SOD, GST, GS, mGluR3, DNMT1, DNMT3).
 
 ## FAIR and reproducibility
